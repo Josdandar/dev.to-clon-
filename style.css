@@ -30,6 +30,12 @@ li.list-group-item {
     left: 70px;
     text-align: center;
 }
+.card2 button{
+    position: relative;
+    left: 20px;
+    text-align: center;
+    border-color: blue;
+}
 footer{
     text-align: center;
 }
